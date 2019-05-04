@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 3595829020
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d589d1f4110ce0c6c1d8c1c8c9c0327
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4befc52827fe2130a60a9c2b717124cd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d935840aed5e9841a6980c91c8c44f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b8c4a61274f60b4ea5fb4299cfdbf14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43b69336cf1086543837e0aa340d2501, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4501f7c8a6752554792f1837350c3b8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1ed1d7999ed0fa44bcc7ca76e19d633, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28e006b996d7ad343985c96c6d55d0f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29a1a5cc2d41df54d859e2bedb55dce6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Cowboy01.prefab
+- Assets/ABSource/Cowboy01.prefab
+Dependencies:
+- F:/GITPRO/newNewGame/game/Assets/StreamingAssets/AssetBundle/texture

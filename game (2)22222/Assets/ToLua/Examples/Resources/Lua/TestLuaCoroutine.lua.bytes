@@ -1,0 +1,61 @@
+function fib(n)
+    local a, b = 0, 1
+    while n > 0 do
+        a, b = b, a + b
+        n = n - 1
+    end
+
+    return a
+end
+
+function CoFunc()
+    print('Coroutine started')    
+    for i = 0, 10, 1 do
+        print(fib(i))    
+        -- 相当于C# new WaitForSeconds(0.1f) 含义等待0.1秒后继续执行             
+        coroutine.wait(0.1)						
+    end	
+	print("current frameCount: "..Time.frameCount)
+    -- 相当于C# new WaitForEndOfFrame() 含义就是等待一帧后继续执行
+	coroutine.step()
+	print("yield frameCount: "..Time.frameCount)
+    -- 相当于C# WWW www = new WWW('www.baidu.com');
+	local www = UnityEngine.WWW("http://www.baidu.com")
+    -- 相当于C# yield return www
+	coroutine.www(www)
+    -- 含义就是讲byte数组转换为string
+	local s = tolua.tolstring(www.bytes)
+    -- 截取 1--128个字符
+	print(s:sub(1, 128))
+    print('Coroutine ended')
+end
+
+function TestCortinue()	
+--  启动协程
+    coroutine.start(CoFunc)
+end
+
+local coDelay = nil
+
+function Delay()
+	local c = 1
+
+	while true do
+		coroutine.wait(1) -- 等一秒
+		print("Count: "..c)
+		c = c + 1
+	end
+end
+
+function StartDelay()
+
+    -- 启动Delay协程
+    -- 相当于C#中的StartCorotine()
+	coDelay = coroutine.start(Delay)
+end
+
+function StopDelay()
+    -- 停止Delay协程
+    -- 相当于C# StopCorotine()
+	coroutine.stop(coDelay)
+end

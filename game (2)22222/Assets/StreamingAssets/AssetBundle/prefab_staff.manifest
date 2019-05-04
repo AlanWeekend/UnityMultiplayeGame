@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2394640806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b6fecb67e680ea8c42a44765d2adc3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 019c57a4d360b4fbd743eed3801e1093
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/prefab_staff.prefab
+- Assets/ABSource/prefab_staff.prefab
+Dependencies:
+- F:/GITPRO/newNewGame/game/Assets/StreamingAssets/AssetBundle/texture

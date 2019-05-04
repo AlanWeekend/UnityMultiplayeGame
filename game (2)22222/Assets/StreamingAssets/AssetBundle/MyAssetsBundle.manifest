@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3132579473
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mat1
+      Dependencies:
+        Dependency_0: textrue1
+    Info_1:
+      Name: mat2
+      Dependencies:
+        Dependency_0: texture2
+    Info_2:
+      Name: obj1
+      Dependencies:
+        Dependency_0: mat1
+        Dependency_1: mat2
+    Info_3:
+      Name: obj2
+      Dependencies:
+        Dependency_0: mat1
+        Dependency_1: mat2
+    Info_4:
+      Name: textrue1
+      Dependencies: {}
+    Info_5:
+      Name: texture2
+      Dependencies: {}

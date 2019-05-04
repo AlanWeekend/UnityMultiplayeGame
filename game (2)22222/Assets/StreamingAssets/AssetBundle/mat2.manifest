@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 399429244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c9f13e19ebbc23c95ce75ecd06ec0d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Materials/mat2.mat
+Dependencies:
+- "E:/U3D/\u5343\u5CF0/\u7B2C\u56DB\u9636\u6BB5/AssetsBundle/MyAssetsBundle/Assets/MyAssetsBundle/texture2"

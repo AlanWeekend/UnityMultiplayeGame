@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3361695919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c5b537fac7e2cd8b68e0b950d472b5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e4027eaa3f619e3a86c38652a65792d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7205ba1188979f44e87dd2b6d30ad840, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/ABSource/prefab_knifelight.prefab
+- Assets/Models/prefab_knifelight.prefab
+Dependencies: []

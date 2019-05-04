@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 4104638633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08c1b1812f2f9726eac2b937a7abc52d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c0a01b5b55fce35428abab2eb0fbf503
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7205ba1188979f44e87dd2b6d30ad840, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/prefab_axe.prefab
+- Assets/ABSource/prefab_axe.prefab
+Dependencies:
+- F:/GITPRO/newNewGame/game/Assets/StreamingAssets/AssetBundle/texture

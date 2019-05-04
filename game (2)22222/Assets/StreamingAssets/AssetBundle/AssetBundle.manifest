@@ -1,0 +1,351 @@
+ManifestFileVersion: 0
+CRC: 3270710264
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: texture
+      Dependencies: {}
+    Info_1:
+      Name: witch02
+      Dependencies:
+        Dependency_0: texture
+    Info_2:
+      Name: pirate01
+      Dependencies:
+        Dependency_0: texture
+    Info_3:
+      Name: knight01
+      Dependencies:
+        Dependency_0: texture
+    Info_4:
+      Name: orcish03
+      Dependencies:
+        Dependency_0: texture
+    Info_5:
+      Name: witch01
+      Dependencies:
+        Dependency_0: texture
+    Info_6:
+      Name: icon_samurai03
+      Dependencies:
+        Dependency_0: level_selected
+    Info_7:
+      Name: orcish01
+      Dependencies:
+        Dependency_0: texture
+    Info_8:
+      Name: samurai03
+      Dependencies:
+        Dependency_0: texture
+    Info_9:
+      Name: charactersandweapon
+      Dependencies:
+        Dependency_0: texture
+    Info_10:
+      Name: icon_cowboy02
+      Dependencies:
+        Dependency_0: level_selected
+    Info_11:
+      Name: icon_knight03
+      Dependencies:
+        Dependency_0: level_selected
+    Info_12:
+      Name: prefab_club
+      Dependencies:
+        Dependency_0: texture
+    Info_13:
+      Name: icon_witch01
+      Dependencies:
+        Dependency_0: level_selected
+    Info_14:
+      Name: samurai02
+      Dependencies:
+        Dependency_0: texture
+    Info_15:
+      Name: prefab_sword
+      Dependencies:
+        Dependency_0: texture
+    Info_16:
+      Name: icon_pirate02
+      Dependencies:
+        Dependency_0: level_selected
+    Info_17:
+      Name: viking02
+      Dependencies:
+        Dependency_0: texture
+    Info_18:
+      Name: icon_cowboy04
+      Dependencies:
+        Dependency_0: level_selected
+    Info_19:
+      Name: prefab_lute
+      Dependencies:
+        Dependency_0: texture
+    Info_20:
+      Name: ninja02
+      Dependencies:
+        Dependency_0: texture
+    Info_21:
+      Name: icon_knight02
+      Dependencies:
+        Dependency_0: level_selected
+    Info_22:
+      Name: prefab_musketpistol
+      Dependencies:
+        Dependency_0: texture
+    Info_23:
+      Name: icon_cowboy03
+      Dependencies:
+        Dependency_0: level_selected
+    Info_24:
+      Name: icon_pirate03
+      Dependencies:
+        Dependency_0: level_selected
+    Info_25:
+      Name: icon_orcish01
+      Dependencies:
+        Dependency_0: level_selected
+    Info_26:
+      Name: pirate04
+      Dependencies:
+        Dependency_0: texture
+    Info_27:
+      Name: pirate02
+      Dependencies:
+        Dependency_0: texture
+    Info_28:
+      Name: icon_orcish04
+      Dependencies:
+        Dependency_0: level_selected
+    Info_29:
+      Name: cowboy03
+      Dependencies:
+        Dependency_0: texture
+    Info_30:
+      Name: viking01
+      Dependencies:
+        Dependency_0: texture
+    Info_31:
+      Name: prefab_sai
+      Dependencies:
+        Dependency_0: texture
+    Info_32:
+      Name: icon_cowboy01
+      Dependencies:
+        Dependency_0: level_selected
+    Info_33:
+      Name: prefab_staff
+      Dependencies:
+        Dependency_0: texture
+    Info_34:
+      Name: knight02
+      Dependencies:
+        Dependency_0: texture
+    Info_35:
+      Name: icon_archer02
+      Dependencies:
+        Dependency_0: level_selected
+    Info_36:
+      Name: icon_viking02
+      Dependencies:
+        Dependency_0: level_selected
+    Info_37:
+      Name: icon_knight04
+      Dependencies:
+        Dependency_0: level_selected
+    Info_38:
+      Name: icon_samurai01
+      Dependencies:
+        Dependency_0: level_selected
+    Info_39:
+      Name: samurai04
+      Dependencies:
+        Dependency_0: texture
+    Info_40:
+      Name: cowboy02
+      Dependencies:
+        Dependency_0: texture
+    Info_41:
+      Name: archer01
+      Dependencies:
+        Dependency_0: texture
+    Info_42:
+      Name: prefab_katana
+      Dependencies:
+        Dependency_0: texture
+    Info_43:
+      Name: prefab_axe
+      Dependencies:
+        Dependency_0: texture
+    Info_44:
+      Name: icon_knight01
+      Dependencies:
+        Dependency_0: level_selected
+    Info_45:
+      Name: orcish04
+      Dependencies:
+        Dependency_0: texture
+    Info_46:
+      Name: prefab_naturestaff
+      Dependencies:
+        Dependency_0: texture
+    Info_47:
+      Name: prefab_hammer
+      Dependencies:
+        Dependency_0: texture
+    Info_48:
+      Name: icon_orcish03
+      Dependencies:
+        Dependency_0: level_selected
+    Info_49:
+      Name: orcish02
+      Dependencies:
+        Dependency_0: texture
+    Info_50:
+      Name: icon_viking01
+      Dependencies:
+        Dependency_0: level_selected
+    Info_51:
+      Name: prefab_crystalhalberd
+      Dependencies:
+        Dependency_0: texture
+    Info_52:
+      Name: knight03
+      Dependencies:
+        Dependency_0: texture
+    Info_53:
+      Name: prefab_saber
+      Dependencies:
+        Dependency_0: texture
+    Info_54:
+      Name: prefab_bomb
+      Dependencies:
+        Dependency_0: texture
+    Info_55:
+      Name: prefab_bow
+      Dependencies:
+        Dependency_0: texture
+    Info_56:
+      Name: archer03
+      Dependencies:
+        Dependency_0: texture
+    Info_57:
+      Name: prefab_revolver
+      Dependencies:
+        Dependency_0: texture
+    Info_58:
+      Name: pirate03
+      Dependencies:
+        Dependency_0: texture
+    Info_59:
+      Name: cowboy01
+      Dependencies:
+        Dependency_0: texture
+    Info_60:
+      Name: archer02
+      Dependencies:
+        Dependency_0: texture
+    Info_61:
+      Name: icon_samurai02
+      Dependencies:
+        Dependency_0: level_selected
+    Info_62:
+      Name: ninja01
+      Dependencies:
+        Dependency_0: texture
+    Info_63:
+      Name: prefab_crystalsword
+      Dependencies:
+        Dependency_0: texture
+    Info_64:
+      Name: icon_archer03
+      Dependencies:
+        Dependency_0: level_selected
+    Info_65:
+      Name: icon_ninja02
+      Dependencies:
+        Dependency_0: level_selected
+    Info_66:
+      Name: samurai01
+      Dependencies:
+        Dependency_0: texture
+    Info_67:
+      Name: viking04
+      Dependencies:
+        Dependency_0: texture
+    Info_68:
+      Name: icon_orcish02
+      Dependencies:
+        Dependency_0: level_selected
+    Info_69:
+      Name: icon_pirate01
+      Dependencies:
+        Dependency_0: level_selected
+    Info_70:
+      Name: icon_viking04
+      Dependencies:
+        Dependency_0: level_selected
+    Info_71:
+      Name: viking03
+      Dependencies:
+        Dependency_0: texture
+    Info_72:
+      Name: icon_viking03
+      Dependencies:
+        Dependency_0: level_selected
+    Info_73:
+      Name: icon_pirate04
+      Dependencies:
+        Dependency_0: level_selected
+    Info_74:
+      Name: icon_witch02
+      Dependencies:
+        Dependency_0: level_selected
+    Info_75:
+      Name: knight04
+      Dependencies:
+        Dependency_0: texture
+    Info_76:
+      Name: prefab_boneaxe
+      Dependencies:
+        Dependency_0: texture
+    Info_77:
+      Name: icon_samurai04
+      Dependencies:
+        Dependency_0: level_selected
+    Info_78:
+      Name: cowboy04
+      Dependencies:
+        Dependency_0: texture
+    Info_79:
+      Name: icon_ninja01
+      Dependencies:
+        Dependency_0: level_selected
+    Info_80:
+      Name: level_selected
+      Dependencies: {}
+    Info_81:
+      Name: icon_archer01
+      Dependencies:
+        Dependency_0: level_selected
+    Info_82:
+      Name: prefab_bullet
+      Dependencies: {}
+    Info_83:
+      Name: prefab_crystalsworddouble
+      Dependencies:
+        Dependency_0: texture
+    Info_84:
+      Name: prefab_magicball
+      Dependencies: {}
+    Info_85:
+      Name: prefab_knifelight
+      Dependencies: {}
+    Info_86:
+      Name: prefab_arrow
+      Dependencies:
+        Dependency_0: texture
+    Info_87:
+      Name: pirate05
+      Dependencies:
+        Dependency_0: texture
